@@ -1,0 +1,8 @@
+* {
+    background-color: rgb(42, 85, 85);
+    background-image: url("pradeesh.png");
+}
+
+.question {
+    font-variant: small-caps;
+}
